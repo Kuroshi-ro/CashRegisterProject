@@ -1,0 +1,43 @@
+--------------------------------------------------
+Date: 2025-06-05T18:33:18.317395
+Cashier/User: Jaques
+Items Purchased:
+  - COCA COLA x2 = ₱50.0
+  - COCA COLA x3 = ₱75.0
+  - PASTA AMATRICIANA x1 = ₱250.0
+  - PASTA ALLA CARBONARA x1 = ₱240.0
+TOTAL: ₱615.0
+--------------------------------------------------
+
+--------------------------------------------------
+Date: 2025-06-06T09:58:03.993070300
+Cashier/User: 
+JaquesItems Purchased:
+  - PROSCIUTTO E RUCOLA x1 = ₱240.0
+  - PASTA CACIO E PEPE x2 = ₱340.0
+  - MARGHERITA PIZZA x3 = ₱600.0
+  - MARGHERITA PIZZA x2 = ₱400.0
+  - PASTA ALLA CARBONARA x3 = ₱720.0
+TOTAL: ₱
+2300.0--------------------------------------------------
+
+--------------------------------------------------
+Date: 2025-06-06T10:03:55.936659700
+Cashier/User: Jaques
+Items Purchased: 
+  - PASTA AL TONNO x2 = ₱450.0
+  - MARGHERITA PIZZA x3 = ₱600.0
+TOTAL: ₱1050.0
+--------------------------------------------------
+
+--------------------------------------------------
+Date: 2025-06-06T10:21:13.954283300
+User: jaques
+Items Purchased: 
+  - PASTA ALLA CARBONARA x1 = ₱240.0
+  - PASTA AMATRICIANA x1 = ₱250.0
+  - MARGHERITA PIZZA x1 = ₱200.0
+  - COCA COLA x1 = ₱25.0
+TOTAL: ₱715.0
+--------------------------------------------------
+
